@@ -1,1 +1,2 @@
 Creating my first file for git
+Modifying the tracked file and ading new contect
